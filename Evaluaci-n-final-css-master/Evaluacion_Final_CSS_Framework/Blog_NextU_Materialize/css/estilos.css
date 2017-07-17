@@ -1,0 +1,56 @@
+html{
+  background: url(../img/tour.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.social img{
+  width: 50px;
+  margin: 15px;
+}
+.left_section img, .right_section img, .central_section img{
+  width: 100%;
+  border: 2px solid white;
+  box-shadow: 5px 5px 5px black;
+
+}
+.central_section{
+  margin-top: 15px;
+
+}
+.navegador a{
+  color: white;
+  font-size: 18px;
+}
+.section_2 p{
+  text-align: justify;
+
+}
+.section_2 img{
+  margin-bottom:  10px;
+}
+.section_2_rigth img{
+  width: 90%;
+}
+
+.section_2{
+  margin: 10px;
+}
+
+.carta, .rig{
+  margin: 10px;
+}
+.comentarios{
+  margin: 20px;
+}
+.contacto form{
+  margin: 20px;
+  padding: 20px;
+  margin-left: 20px;
+
+}
+.contacto{
+  background: rgba(0, 41, 149, 0.9);
+  border-radius: 10px;
+}

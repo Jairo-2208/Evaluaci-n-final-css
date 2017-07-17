@@ -1,0 +1,38 @@
+.slider{
+  background: url("../imagenes/fondo_2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: auto;
+
+
+}
+
+.fondo{
+  background: rgba(79, 62, 155, 0.6);
+}
+
+.border{
+  border-bottom: 6px dotted white;
+}
+
+.galeria{
+  margin-top: 20px;
+  margin-bottom: 15px;
+
+}
+.fondo_1{
+  background: rgba(0, 0, 0, 0.6);
+  margin: 5px;
+  border-radius: 5px 5px 5px 5px;
+  padding: 5px;
+}
+h3, h1, h2, p{
+  color: white;
+}
+.comentario{
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+  margin: 8px;
+}
